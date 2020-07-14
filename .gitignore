@@ -1,0 +1,12 @@
+# cache
+.ipynb_checkpoints/
+CONTEXTILY_CACHE/
+
+# sensitive
+credentials.ini
+
+# runtime and output
+last_row.txt
+tweets*.csv
+output/
+mos/
